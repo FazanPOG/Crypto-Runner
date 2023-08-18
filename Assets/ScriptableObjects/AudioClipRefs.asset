@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d613f73596eb57947b677c82d8f4573e, type: 3}
+  m_Name: AudioClipRefs
+  m_EditorClassIdentifier: 
+  backgroundMusic: {fileID: 8300000, guid: 0598c90129a0cf74198039e2082bbadd, type: 3}
+  bitcoin: {fileID: 8300000, guid: 75a71f6603b5c514b8c05ebdb09db582, type: 3}
+  bonusArch: {fileID: 8300000, guid: 119a20112856d394e9f4889b9329027a, type: 3}
+  bonusArchBad: {fileID: 8300000, guid: de6b40a095de83e499f02afe6e88b246, type: 3}
+  buttonUI: {fileID: 8300000, guid: 024ba328d4e28b541bb809efa4e80015, type: 3}
+  victory: {fileID: 8300000, guid: c82141815c76e9141ae0d3a7720fcb49, type: 3}
+  hit: {fileID: 8300000, guid: 79bc7eae06593fb47ae8ddbc0339e447, type: 3}

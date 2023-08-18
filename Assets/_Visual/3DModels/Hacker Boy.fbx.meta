@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 82e199c9eee95474f9814e2e226273c2
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Hacker Boy(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder.006
+      parentName: Hacker Boy(Clone)
+      position: {x: 0.011831149, y: 1.2063085, z: 0.051307734}
+      rotation: {x: 0.000000028210001, y: 0.6453696, z: 0.7638705, w: 0.00000003338984}
+      scale: {x: -8.513222, y: -10.276042, z: -1.330364}
+    - name: Cube.003
+      parentName: Hacker Boy(Clone)
+      position: {x: 0.18198486, y: 0.053847373, z: 0.0057973317}
+      rotation: {x: 0.7045275, y: -0.008939189, z: 0.039185066, w: 0.70853764}
+      scale: {x: -2.8531013, y: -2.1282544, z: -2.1282547}
+    - name: Cube.001
+      parentName: Hacker Boy(Clone)
+      position: {x: -0.15732677, y: 0.05399328, z: 0.004727237}
+      rotation: {x: -0.7091094, y: 0.016873173, z: -0.0779706, w: 0.700571}
+      scale: {x: 2.8531013, y: 2.1282547, z: 2.1282544}
+    - name: Cube.002
+      parentName: Hacker Boy(Clone)
+      position: {x: 0.015985314, y: 1.0553454, z: 0.02005959}
+      rotation: {x: -0.053867515, y: -3.3719307e-24, z: -1.1961002e-17, w: 0.9985481}
+      scale: {x: 12.57183, y: 12.571831, z: 12.571831}
+    - name: Cube_Cube.001
+      parentName: Hacker Boy(Clone)
+      position: {x: 0.016136387, y: 0.85327363, z: 0.035924695}
+      rotation: {x: -0.053867515, y: -3.3719307e-24, z: -1.1961002e-17, w: 0.9985481}
+      scale: {x: 12.57183, y: 12.571831, z: 12.571831}
+    - name: Cube.006
+      parentName: Hacker Boy(Clone)
+      position: {x: 0.015340295, y: 0.9875767, z: -0.045029078}
+      rotation: {x: -0.048626162, y: -0.00018432815, z: 0.01717934, w: 0.99866927}
+      scale: {x: 12.571831, y: 12.57183, z: 12.57183}
+    - name: Cube.009
+      parentName: Hacker Boy(Clone)
+      position: {x: 0.015935149, y: 1.2973149, z: 0.075458795}
+      rotation: {x: -0.05386751, y: -3.371931e-24, z: -1.1961003e-17, w: 0.9985481}
+      scale: {x: 13.06815, y: 13.0681505, z: 13.0681505}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
